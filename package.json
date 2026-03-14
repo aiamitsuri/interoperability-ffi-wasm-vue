@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@aiamitsuri/interoperability-ffi-wasm": "^0.1.11",
+    "@aiamitsuri/interoperability-ffi-wasm": "^0.1.14",
     "vue": "^3.5.25"
   },
   "devDependencies": {
