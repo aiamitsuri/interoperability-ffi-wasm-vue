@@ -1,13 +1,12 @@
 # interoperability-ffi-wasm-vue
 
-# Initialize Vue project
+# Create new project
 - npm create vite@latest interoperability-ffi-wasm-vue -- --template vue
 - cd interoperability-ffi-wasm-vue
 - npm install
-
-# Install package and Wasm plugins
-- npm install @aiamitsuri/interoperability-ffi-wasm@0.1.12
+- npm install @aiamitsuri/interoperability-ffi-wasm@0.1.14
 - npm install -D vite-plugin-wasm vite-plugin-top-level-await
 
-# Run
+# Run existing project
+- npm install
 - npm run dev
